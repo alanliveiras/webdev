@@ -1,1 +1,1 @@
-# performing the exercices
+# lab location
